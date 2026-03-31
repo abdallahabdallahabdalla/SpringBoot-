@@ -1,9 +1,6 @@
-
-
 package com.example.FirstProject.Model;
-import com.example.FirstProject.Model.user;
 
-public class user {
+public class User {
     private String name;
     private String email;
 

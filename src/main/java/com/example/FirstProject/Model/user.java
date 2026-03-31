@@ -1,4 +1,7 @@
+
+
 package com.example.FirstProject.Model;
+import com.example.FirstProject.Model.user;
 
 public class user {
     private String name;
